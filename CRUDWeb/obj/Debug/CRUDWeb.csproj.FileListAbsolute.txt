@@ -1,0 +1,6 @@
+F:\OOP0152\16 MAR 2015\CRUDWeb\CRUDWeb\bin\CRUDWeb.dll.config
+F:\OOP0152\16 MAR 2015\CRUDWeb\CRUDWeb\bin\CRUDWeb.dll
+F:\OOP0152\16 MAR 2015\CRUDWeb\CRUDWeb\bin\CRUDWeb.pdb
+F:\OOP0152\16 MAR 2015\CRUDWeb\CRUDWeb\obj\Debug\CRUDWeb.csprojResolveAssemblyReference.cache
+F:\OOP0152\16 MAR 2015\CRUDWeb\CRUDWeb\obj\Debug\CRUDWeb.dll
+F:\OOP0152\16 MAR 2015\CRUDWeb\CRUDWeb\obj\Debug\CRUDWeb.pdb
